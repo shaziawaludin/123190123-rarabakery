@@ -1,0 +1,33 @@
+
+.borderr3{
+    border-radius: 5px;
+}
+
+.borderr2{
+    border-radius: 10px;
+}
+.borderr1{
+    border-radius: 15px;
+}
+
+img.heroimg{
+    width: 100% !important; 
+    height: 350px !important; 
+}
+
+.unggulan1{
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+}
+.unggulan2{
+    /* width: 100%; */
+    max-width: 150px;
+    height: auto;
+}
+
+.kbox{
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+}
